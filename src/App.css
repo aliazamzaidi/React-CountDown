@@ -1,0 +1,16 @@
+.App{
+    margin-top: 19vh;
+    text-align: center;
+    font-size: 25px;
+}
+
+#timeCounter{
+    display: inline;
+    margin-left: 1em;
+    border: 1px dotted grey;
+    border-radius: 4px;
+}
+
+body{
+    /*background-color: lightskyblue*/
+}
